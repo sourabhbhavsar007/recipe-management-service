@@ -73,7 +73,7 @@ We also have populated some pre-loaded database entires, using data.sql for simp
 
 Please refer to the following link for documentation realted to endpoints along with sample payload :
 
-### https://documenter.getpostman.com/view/6488957/UzBnpkqd#2e5efc03-8d17-4568-a0f3-4e4523932727
+### https://documenter.getpostman.com/view/6488957/UzBnpm9J 
 
 Alternatively, please also find enpoints details below as well.
 
