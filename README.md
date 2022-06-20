@@ -67,6 +67,8 @@ Application is using in memory H2 database. The connection details are :
 - spring.datasource.username=root
 - spring.datasource.password=root
 
+We also have populated some pre-loaded database entires, using data.sql for simplicity.
+
 # Endpoints:
 
 Please refer to the following link for documentation realted to endpoints along with sample payload :
