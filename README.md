@@ -190,6 +190,9 @@ Alternatively, please also find enpoints details below as well.
 ![Screen Shot 2022-06-21 at 1 54 30 AM](https://user-images.githubusercontent.com/30754286/174690733-437a56e2-b7df-4d86-a5c1-666d15a54d6f.png)
 
 
+5. Accessing service depolyed on AWS Beanstalk:
+
+![Screen Shot 2022-06-21 at 2 12 10 AM](https://user-images.githubusercontent.com/30754286/174691688-e8319335-235e-462e-8f80-f546ac54985d.png)
 
 
 ## Limitations:
