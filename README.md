@@ -50,7 +50,7 @@ This layer is responsible for physically storing the recipes data onto database 
 
 The microservice is deployed on <b>AWS Beanstalk</b>, so can directly be accessed by :
 
-http://recipemanagementservice-env.eba-tj2cgh2d.eu-west-1.elasticbeanstalk.com/api/v1/recipe/
+### http://recipemanagementservice-env.eba-tj2cgh2d.eu-west-1.elasticbeanstalk.com/api/v1/recipe/
 
 To carry out CRUD operations on recipe further, please refer to endpoints in following section.
 
@@ -82,7 +82,7 @@ Application is using in memory H2 database. The connection details are :
 
 Please refer to the following link for documentation realted to endpoints along with sample payload :
 
-### https://documenter.getpostman.com/view/6488957/UzBnpkqd#2e5efc03-8d17-4568-a0f3-4e4523932727
+### https://documenter.getpostman.com/view/6488957/UzBnpm9J#8d8f29e2-3ef3-4282-b6d5-0590091cefcd
 
 Alternatively, please also find enpoints details below as well.
 
