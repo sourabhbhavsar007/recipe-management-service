@@ -1,6 +1,6 @@
-# recipe-management-system
+# recipe-management-service
 
-# Spring Boot Project for Recipe Management System
+# Spring Boot Project for Recipe Management Service
 
 ## Business Requirements :
 
@@ -46,6 +46,17 @@ This layer is responsible for physically storing the recipes data onto database 
 
 ## Executing the project :
 
+### Approach 1:
+
+The microservice is deployed on <b>AWS Beanstalk</b>, so can directly be accessed by :
+
+http://recipemanagementservice-env.eba-tj2cgh2d.eu-west-1.elasticbeanstalk.com/api/v1/recipe/
+
+To carry out CRUD operations on recipe further, please refer to endpoints in following section.
+
+
+### Approach 2:
+
 To execute, please download the zip of the project or clone the repository.
 
 Import the unziped file or cloned repo into IDE of your choice.
@@ -67,13 +78,11 @@ Application is using in memory H2 database. The connection details are :
 - spring.datasource.username=root
 - spring.datasource.password=root
 
-We also have populated some pre-loaded database entires, using data.sql for simplicity.
-
 # Endpoints:
 
 Please refer to the following link for documentation realted to endpoints along with sample payload :
 
-### https://documenter.getpostman.com/view/6488957/UzBnpm9J 
+### https://documenter.getpostman.com/view/6488957/UzBnpkqd#2e5efc03-8d17-4568-a0f3-4e4523932727
 
 Alternatively, please also find enpoints details below as well.
 
@@ -174,6 +183,11 @@ Alternatively, please also find enpoints details below as well.
 3. Database table of Recipe:
 
 ![Screen Shot 2022-06-20 at 9 04 44 PM](https://user-images.githubusercontent.com/30754286/174682793-7ed2c6c8-b34c-4b9e-8978-df0c74cf0738.png)
+
+
+4. Service deployed on AWS Beanstalk:
+
+![Screen Shot 2022-06-21 at 1 54 30 AM](https://user-images.githubusercontent.com/30754286/174690733-437a56e2-b7df-4d86-a5c1-666d15a54d6f.png)
 
 
 
