@@ -80,7 +80,7 @@ Application is using in memory H2 database. The connection details are :
 
 # Endpoints:
 
-Please refer to the following link for documentation realted to endpoints along with sample payload :
+Please refer to the following link for documentation related to endpoints along with sample payload :
 
 ### https://documenter.getpostman.com/view/6488957/UzBnpm9J#8d8f29e2-3ef3-4282-b6d5-0590091cefcd
 
